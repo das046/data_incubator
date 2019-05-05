@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+   width="496.79242"
+   height="369.95776"
+   id="svg76"
+   sodipodi:docname="gender.svg"
+   inkscape:export-filename="/tmp/gender.pdf.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     id="namedview78"
+     showgrid="false"
+     inkscape:zoom="1.4802102"
+     inkscape:cx="246.81325"
+     inkscape:cy="179"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg76" />
+  <desc
+     id="desc2">Created with Highcharts 4.2.7</desc>
+  <defs
+     id="defs12">
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="16"
+       id="highcharts-43"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="rgb(96,96,96)"
+         stop-opacity="0.8"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="rgb(16,16,16)"
+         stop-opacity="0.8"
+         id="stop6" />
+    </linearGradient>
+    <clipPath
+       id="highcharts-44">
+      <rect
+         x="1"
+         y="1"
+         width="578"
+         height="336"
+         id="rect9" />
+    </clipPath>
+  </defs>
+  <rect
+     x="0.95775729"
+     y="0.95775729"
+     width="488.12119"
+     height="338"
+     id="rect14"
+     style="fill:#ffffff;stroke-width:0.91738117" />
+  <rect
+     x="0.92386371"
+     y="0.92386371"
+     width="494.9447"
+     height="338.06778"
+     id="rect16"
+     style="fill:none;stroke:#026fc1;stroke-width:1.84772742" />
+  <g
+     class="highcharts-series-group"
+     id="g26"
+     transform="translate(-57.008403,-9.0422427)">
+    <g
+       class="highcharts-series highcharts-series-0"
+       transform="translate(10,10)"
+       id="g22">
+      <path
+         d="M 296.97322,37.500003 A 131.5,131.5 0 0 1 381.99554,269.33946 L 297,169 Z"
+         id="path18"
+         inkscape:connector-curvature="0"
+         style="fill:#50b432;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" />
+      <path
+         d="M 381.89516,269.42441 A 131.5,131.5 0 1 1 296.81735,37.500127 L 297,169 Z"
+         id="path20"
+         inkscape:connector-curvature="0"
+         style="fill:#ed561b;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" />
+    </g>
+    <g
+       class="highcharts-markers highcharts-series-0"
+       transform="translate(10,10)"
+       id="g24" />
+  </g>
+  <g
+     class="highcharts-data-labels highcharts-series-0"
+     transform="translate(-47.008403,0.95775729)"
+     id="g44"
+     style="opacity:1">
+    <g
+       transform="translate(458,103)"
+       id="g36">
+      <text
+         x="-80.45752"
+         style="color:#000000;font-weight:bold;font-size:15px;font-family:arial, sans-serif;fill:#000000;stroke-width:1.5"
+         y="25.753124"
+         id="text34">
+        <tspan
+           id="tspan32"
+           style="stroke-width:1.5">Male: 4056803 -38.8%</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(0,215)"
+       id="g42">
+      <text
+         x="53.982849"
+         style="color:#000000;font-weight:bold;font-size:15px;font-family:arial, sans-serif;fill:#000000;stroke-width:1.5"
+         y="-33.697891"
+         id="text40">
+        <tspan
+           id="tspan38"
+           style="stroke-width:1.5">Female: 6391001 - 61.2%</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     class="highcharts-legend"
+     transform="translate(167.9916,350.95776)"
+     id="g62">
+    <g
+       id="g60">
+      <g
+         id="g58">
+        <g
+           class="highcharts-legend-item"
+           transform="translate(8,3)"
+           id="g50">
+          <text
+             x="21"
+             style="color:#333333;font-weight:normal;font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;text-transform:none;text-anchor:start;fill:#333333"
+             y="15"
+             id="text46">Male</text>
+          <rect
+             x="0"
+             y="4"
+             width="16"
+             height="12"
+             id="rect48"
+             style="fill:#50b432" />
+        </g>
+        <g
+           class="highcharts-legend-item"
+           transform="translate(78,3)"
+           id="g56">
+          <text
+             x="21"
+             y="15"
+             style="color:#333333;font-weight:normal;font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;text-transform:none;text-anchor:start;fill:#333333"
+             id="text52">Female</text>
+          <rect
+             x="0"
+             y="4"
+             width="16"
+             height="12"
+             id="rect54"
+             style="fill:#ed561b" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     class="highcharts-tooltip"
+     display="none"
+     style="white-space:nowrap;display:none"
+     id="g74"
+     transform="translate(-57.008403,-9.0422427)">
+    <path
+       d="m 3,0 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 H 3 C 0,16 0,16 0,13 V 3 C 0,0 0,0 3,0"
+       transform="translate(1,1)"
+       id="path64"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:0.05" />
+    <path
+       d="m 3,0 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 H 3 C 0,16 0,16 0,13 V 3 C 0,0 0,0 3,0"
+       transform="translate(1,1)"
+       id="path66"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-opacity:0.1" />
+    <path
+       d="m 3,0 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 H 3 C 0,16 0,16 0,13 V 3 C 0,0 0,0 3,0"
+       transform="translate(1,1)"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.15" />
+    <path
+       d="m 3,0 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 H 3 C 0,16 0,16 0,13 V 3 C 0,0 0,0 3,0"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:url(#highcharts-43)" />
+    <text
+       x="8"
+       style="color:#000000;font-size:12px;fill:#000000"
+       y="20"
+       id="text72" />
+  </g>
+</svg>
